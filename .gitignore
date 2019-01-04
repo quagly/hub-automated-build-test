@@ -1,0 +1,12 @@
+# ignore vim temp files
+*.sw[op]
+
+# ignore OSX 'folder' metadata
+.DS_Store
+
+# ignore Dockerfile.regence
+# generage this by running regence.py as needed
+Dockerfile.regence
+
+# ignore log files
+/log
